@@ -1,7 +1,7 @@
 
 ## About me
 
-#### Hi, my name is Lucas, 
+#### Hi, my name is Lucas 👋
 * I'm a Java developer and software engineering student.
 * I'm currently studying front-end frameworks like Flutter and Angular to became a fullstack developer.
 
